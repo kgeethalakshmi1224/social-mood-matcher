@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Social Mood Matcher – AI Caption & Hashtag Generator
 
 <div align="center">
@@ -338,3 +339,6 @@ For questions, suggestions, or issues:
 ⭐ Star this repo if you find it helpful!
 
 </div>
+=======
+# social-mood-matcher
+>>>>>>> 16865964b12eca25c095c3560cd957060bd04357
